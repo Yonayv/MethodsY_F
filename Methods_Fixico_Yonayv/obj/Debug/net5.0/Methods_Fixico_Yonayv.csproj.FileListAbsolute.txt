@@ -1,0 +1,16 @@
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\bin\Debug\net5.0\Methods_Fixico_Yonayv.exe
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\bin\Debug\net5.0\Methods_Fixico_Yonayv.deps.json
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\bin\Debug\net5.0\Methods_Fixico_Yonayv.runtimeconfig.json
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\bin\Debug\net5.0\Methods_Fixico_Yonayv.runtimeconfig.dev.json
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\bin\Debug\net5.0\Methods_Fixico_Yonayv.dll
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\bin\Debug\net5.0\ref\Methods_Fixico_Yonayv.dll
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\bin\Debug\net5.0\Methods_Fixico_Yonayv.pdb
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\obj\Debug\net5.0\Methods_Fixico_Yonayv.csproj.AssemblyReference.cache
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\obj\Debug\net5.0\Methods_Fixico_Yonayv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\obj\Debug\net5.0\Methods_Fixico_Yonayv.AssemblyInfoInputs.cache
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\obj\Debug\net5.0\Methods_Fixico_Yonayv.AssemblyInfo.cs
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\obj\Debug\net5.0\Methods_Fixico_Yonayv.csproj.CoreCompileInputs.cache
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\obj\Debug\net5.0\Methods_Fixico_Yonayv.dll
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\obj\Debug\net5.0\ref\Methods_Fixico_Yonayv.dll
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\obj\Debug\net5.0\Methods_Fixico_Yonayv.pdb
+C:\Users\Emily.fixico\source\repos\Methods_Fixico_Yonayv\Methods_Fixico_Yonayv\obj\Debug\net5.0\Methods_Fixico_Yonayv.genruntimeconfig.cache
